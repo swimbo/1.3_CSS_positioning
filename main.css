@@ -1,0 +1,37 @@
+div{
+
+  position:relative;
+}
+#container {
+ height: 500px;
+ width: 500px;
+ background-color: gray;
+ }
+#square1 {
+ background-color: red;
+ height: 200px;
+ width: 100px;
+float:right;
+ }
+ #square2 {
+ background-color: blue;
+ height: 200px;
+ width: 100px;
+ float:left;
+
+}
+ #square3 {
+     background-color: green;
+     height: 200px;
+     width: 100px;
+
+float:left;
+clear:left;
+}
+
+ #square4 {
+    background-color: black;
+    height: 200px;
+    width: 100px;
+float:right;
+}
